@@ -1,0 +1,31 @@
+.first-line {
+    display:flex;
+    flex-direction: row;
+    width: 700px;
+    justify-content: space-between;
+    padding: 25px;
+    border: solid #4876ff;
+}
+
+.blue-square {
+    width: 55px;
+    height: 55px;
+    background-color: #4876ff;
+}
+
+.second-line {
+    display:flex;
+    flex-direction: row;
+    width: 700px;
+    justify-content: space-between;
+    padding: 25px;
+    border: solid #4876ff;
+    margin-top: 15px;
+    background-color: #F05E32;
+}
+
+.purple-square {
+    width: 55px;
+    height: 55px;
+    background-color: #531F76;
+}
